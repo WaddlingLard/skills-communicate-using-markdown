@@ -19,3 +19,6 @@ x=5
 y=6
 print(x+y)
 ```
+- [ ] finish this assignment
+- [ ] go to sleep
+- [ ] play ffvii remake :)
